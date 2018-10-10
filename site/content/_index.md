@@ -1,21 +1,16 @@
 ---
 title: Great meal with a conscience
 subtitle: Support sustainable farming while enjoying a meal
-image: /img/home-jumbotron.jpg
+image: /img/35409449-golden-paddy-field-house.jpg
 blurb:
   heading: Why Ykol?
   text: >-
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+    Ykol is an initiative of young architects who believes in sustainable
+    agriculture and the nature. We work in our field so that we can know the
+    pulse of the soil.
 intro:
   heading: What we offer
-  text: >-
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone.
+  text: 'We offers high quality, organic and sustainable ; rice for the meals.'
 products:
   - image: img/illustrations-coffee.svg
     text: >-
