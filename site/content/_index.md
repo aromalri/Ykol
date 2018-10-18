@@ -1,13 +1,20 @@
 ---
-title: Great meal with a conscience
+title: Organic wrapped in love
 subtitle: Support sustainable farming while enjoying a meal
 image: /img/35409449-golden-paddy-field-house.jpg
 blurb:
   heading: Why Ykol?
   text: >-
-    Ykol is an initiative of young architects who believes in sustainable
-    agriculture and the nature. We work in our field so that we can know the
-    pulse of the soil.
+    Ykol is an initiative of a group of young architects who believe in
+    sustainable agriculture and the nature. We work in our field so that we can
+    know the pulse of the soil.
+
+
+
+    We hope our humble venture could attract more young minds to the world of
+    organic farming, both in physical labour and technological support. This is
+    especially important in the present scenario when there is an alarming issue
+    in food adulteration and various health issues connected with that. 
 intro:
   heading: What we offer
   text: 'We offers high quality, organic and sustainable ; rice for the meals.'
@@ -28,9 +35,10 @@ products:
 values:
   heading: Our values
   text: >-
-    Coffee is an amazing part of human culture but it has a dark side too – one
-    of colonialism and mindless abuse of natural resources and human lives. We
-    want to turn this around and return the coffee trade to the drink’s
-    exhilarating, empowering and unifying nature.
+    We believe in gender equality in workplace, be it a comfy office within four
+    walls or an open paddy field. Equal pay for men and women is one thing we
+    strictly follow. We believe a safe and comfortable work space increases
+    significantly the productivity of our farmers, a section of society often
+    less credited and acknowledged by.
 ---
 
