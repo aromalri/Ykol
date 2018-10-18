@@ -1,6 +1,6 @@
 ---
-title: Organic wrapped in love
-subtitle: Support sustainable farming while enjoying a meal
+title: Ykol
+subtitle: Organic wrapped in love
 image: /img/35409449-golden-paddy-field-house.jpg
 blurb:
   heading: Why Ykol?
