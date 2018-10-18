@@ -14,7 +14,8 @@ blurb:
     We hope our humble venture could attract more young minds to the world of
     organic farming, both in physical labour and technological support. This is
     especially important in the present scenario when there is an alarming issue
-    in food adulteration and various health issues connected with that. 
+    of concern in food adulteration and various health issues connected with
+    that. 
 intro:
   heading: What we offer
   text: 'We offers high quality, organic and sustainable ; rice for the meals.'
@@ -37,8 +38,12 @@ values:
   text: >-
     We believe in gender equality in workplace, be it a comfy office within four
     walls or an open paddy field. Equal pay for men and women is one thing we
-    strictly follow. We believe a safe and comfortable work space increases
-    significantly the productivity of our farmers, a section of society often
-    less credited and acknowledged by.
+    strictly follow. 
+
+
+    We believe a safe and comfortable work space increases significantly the
+    productivity of our farmers, a section of society often less credited and
+    acknowledged by society. Ensuring an increased sense of dignity and
+    satisfaction among our farmers is one value we proudly adhere to.
 ---
 
